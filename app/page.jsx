@@ -1,7 +1,6 @@
 "use client"
 import CountButton from "./CountButton"
 import CountButton2 from "./CountButton2"
-import React from "react"
 export default function Page(){
     return <div>
         <h1>This button will increment by 1</h1>
