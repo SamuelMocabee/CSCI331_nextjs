@@ -1,0 +1,12 @@
+.prodStyle{
+    width: 100px;
+    height:auto;
+    column-gap: 50px;
+    border: 1px solid black;
+    display: inline-table;
+    padding: 15px;
+    padding-bottom: auto;
+    margin: 10px;
+    text-align: left;
+    background-color:aquamarine;
+}
